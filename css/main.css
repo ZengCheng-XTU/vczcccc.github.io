@@ -1919,7 +1919,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffe2db;
+  background: #bf851f;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2824,7 +2824,6 @@ img:hover {
   float: left;
   margin-top: 300px;
   width: 240px;
-  background: #f5f7f9;
   box-shadow: none;
   background: rgba(255,255,255,0.5);
 }
