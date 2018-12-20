@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[categories]]></title>
-    <url>%2F2018%2F12%2F20%2Fcategories%2F</url>
-    <content type="text"></content>
-  </entry>
-  <entry>
     <title><![CDATA[MarkDown语法简单指南]]></title>
     <url>%2F2018%2F12%2F18%2FMarkDown%E8%AF%AD%E6%B3%95%E7%AE%80%E5%8D%95%E6%8C%87%E5%8D%97%2F</url>
     <content type="text"><![CDATA[标题可设置加黑加粗的多级标题，级数越大字号越小，使用方法如下:123# 一级标题## 二级标题### 三级标题 tips:# 和标题之间加一个空格 代码块可以在代码的头部和尾部分别加上1``` 来生成代码块:1234567#include&lt;bits/stdc++.h&gt;using namespace std;int main()&#123; cout&lt;&lt;&quot;This is a Code Block!&quot;&lt;&lt;endl; return 0;&#125; 斜体和加黑字体text 此时text为斜体text 此时text为加黑字体12*text***text** 引用使用&gt;text，来引入一段文本 这是一段引用文本1&gt;text 链接曾诚’s Blog 文本显示为name,跳转到site1[name](site) 插入图片图片描述为description，图片来源为src,用法如下1![name][src] 示例]]></content>
+      <tags>
+        <tag>Hexo使用相关</tag>
+      </tags>
   </entry>
 </search>
